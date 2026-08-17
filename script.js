@@ -1,4 +1,4 @@
-const API_KEY = "54945e9dedf4e63c6a9022d6a2df4651";
+const API_KEY = "3d5f4e4a02ab510fc4a099fe5e77b05d";
 
 // Load last searched city or Delhi
 const city = localStorage.getItem("city") || "Delhi";
